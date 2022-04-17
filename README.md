@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhishek12170
+- 👋 Hi, I’m @abhishekkrishna
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Python full stack
 - 💞️ I’m looking to collaborate on ...
